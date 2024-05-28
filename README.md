@@ -17,8 +17,7 @@ Breve descripción o propósito del proyecto.
 
 ## Contribuir
 
-Indica cómo otros desarrolladores pueden contribuir a tu proyecto.
-
+Agradeceria cualquier optimizacion al proyecto o eres libre de hacer los cambios que estimes necesarios
 ## Licencia
 
 Este proyecto está bajo la [Licencia MIT](LICENSE).
